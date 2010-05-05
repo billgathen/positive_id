@@ -5,7 +5,7 @@ Positive ID is a 'how much do you know about your friends?' web application. It'
 # To Do
 1.	DONE Sinatra back-end
 1.	DONE Heroku deployment
-1.	Login using Twitter http://github.com/moomerman/sinitter
+1.	Login using Twitter [example](http://github.com/moomerman/sinitter)
 1.	Datamapper ORM?
 1.	jquery ajax front-end
 1.	jquery UI for eye candy
