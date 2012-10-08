@@ -3,12 +3,12 @@
 Positive ID is a 'how much do you know about your friends?' web application. It's intended to be a mobile application you play with a social group, oriented around quizzes about each other's interests and preferences. There are elements of Concentration, the card game where you flip over pairs of cards, trying to make matches by remembering where other cards are in the grid.
 
 # To Do
-1.	DONE Sinatra back-end
-1.	DONE Heroku deployment
-1.	Login using Twitter [example](http://github.com/moomerman/sinitter)
+1.	[Sinatra](http://sinatrarb.com)
+1.	[jQuery Mobile](http://jquerymobile.com)
+1.	[Angular JS](http://angularjs.com)
+1.	On [Heroku](https://devcenter.heroku.com/articles/ruby)
+1.	Login using Twitter
 1.	Datamapper ORM?
-1.	jquery ajax front-end
-1.	jquery UI for eye candy
 1.	"About" form for storing interests/preferences
 1.	"Quiz" form for multiple-choice questions
 1.	Random question picker

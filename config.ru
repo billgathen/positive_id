@@ -1,2 +1,2 @@
-require 'positive_id'
+require './positive_id'
 run Sinatra::Application
